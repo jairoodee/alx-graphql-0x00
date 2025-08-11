@@ -1,0 +1,281 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "count": 826,
+        "pages": 42,
+        "next": 2,
+        "prev": null
+      },
+      "results": [
+        {
+          "id": "1",
+          "name": "Rick Sanchez",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "name": "Citadel of Ricks"
+          }
+        },
+        {
+          "id": "2",
+          "name": "Morty Smith",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Citadel of Ricks"
+          }
+        },
+        {
+          "id": "3",
+          "name": "Summer Smith",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Female",
+          "origin": {
+            "name": "Earth (Replacement Dimension)"
+          },
+          "location": {
+            "name": "Earth (Replacement Dimension)"
+          }
+        },
+        {
+          "id": "4",
+          "name": "Beth Smith",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Female",
+          "origin": {
+            "name": "Earth (Replacement Dimension)"
+          },
+          "location": {
+            "name": "Earth (Replacement Dimension)"
+          }
+        },
+        {
+          "id": "5",
+          "name": "Jerry Smith",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "Earth (Replacement Dimension)"
+          },
+          "location": {
+            "name": "Earth (Replacement Dimension)"
+          }
+        },
+        {
+          "id": "6",
+          "name": "Abadango Cluster Princess",
+          "status": "Alive",
+          "species": "Alien",
+          "gender": "Female",
+          "origin": {
+            "name": "Abadango"
+          },
+          "location": {
+            "name": "Abadango"
+          }
+        },
+        {
+          "id": "7",
+          "name": "Abradolf Lincler",
+          "status": "unknown",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "Earth (Replacement Dimension)"
+          },
+          "location": {
+            "name": "Testicle Monster Dimension"
+          }
+        },
+        {
+          "id": "8",
+          "name": "Adjudicator Rick",
+          "status": "Dead",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Citadel of Ricks"
+          }
+        },
+        {
+          "id": "9",
+          "name": "Agency Director",
+          "status": "Dead",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "Earth (Replacement Dimension)"
+          },
+          "location": {
+            "name": "Earth (Replacement Dimension)"
+          }
+        },
+        {
+          "id": "10",
+          "name": "Alan Rails",
+          "status": "Dead",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Worldender's lair"
+          }
+        },
+        {
+          "id": "11",
+          "name": "Albert Einstein",
+          "status": "Dead",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "name": "Earth (Replacement Dimension)"
+          }
+        },
+        {
+          "id": "12",
+          "name": "Alexander",
+          "status": "Dead",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "name": "Anatomy Park"
+          }
+        },
+        {
+          "id": "13",
+          "name": "Alien Googah",
+          "status": "unknown",
+          "species": "Alien",
+          "gender": "unknown",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Earth (Replacement Dimension)"
+          }
+        },
+        {
+          "id": "14",
+          "name": "Alien Morty",
+          "status": "unknown",
+          "species": "Alien",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Citadel of Ricks"
+          }
+        },
+        {
+          "id": "15",
+          "name": "Alien Rick",
+          "status": "unknown",
+          "species": "Alien",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Citadel of Ricks"
+          }
+        },
+        {
+          "id": "16",
+          "name": "Amish Cyborg",
+          "status": "Dead",
+          "species": "Alien",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Earth (Replacement Dimension)"
+          }
+        },
+        {
+          "id": "17",
+          "name": "Annie",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Female",
+          "origin": {
+            "name": "Earth (C-137)"
+          },
+          "location": {
+            "name": "Anatomy Park"
+          }
+        },
+        {
+          "id": "18",
+          "name": "Antenna Morty",
+          "status": "Alive",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Citadel of Ricks"
+          }
+        },
+        {
+          "id": "19",
+          "name": "Antenna Rick",
+          "status": "unknown",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "unknown"
+          }
+        },
+        {
+          "id": "20",
+          "name": "Ants in my Eyes Johnson",
+          "status": "unknown",
+          "species": "Human",
+          "gender": "Male",
+          "origin": {
+            "name": "unknown"
+          },
+          "location": {
+            "name": "Interdimensional Cable"
+          }
+        }
+      ],
+      "episode": {
+      "id": "1",
+      "name": "Pilot",
+      "air_date": "December 2, 2013",
+      "episode": "S01E01"
+    }
+    }
+  }
+}
+

@@ -1,0 +1,280 @@
+{
+    "data": {
+      "characters": {
+        "info": {
+          "count": 826,
+          "pages": 42,
+          "next": 5,
+          "prev": 3
+        },
+        "results": [
+          {
+            "id": "61",
+            "name": "Campaign Manager Morty",
+            "status": "Dead",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "62",
+            "name": "Canklanker Thom",
+            "status": "Dead",
+            "species": "Alien",
+            "gender": "Male",
+            "origin": {
+              "name": "Gromflom Prime"
+            },
+            "location": {
+              "name": "unknown"
+            }
+          },
+          {
+            "id": "63",
+            "name": "Centaur",
+            "status": "Alive",
+            "species": "Mythological Creature",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Mr. Goldenfold's dream"
+            }
+          },
+          {
+            "id": "64",
+            "name": "Chris",
+            "status": "Dead",
+            "species": "Alien",
+            "gender": "unknown",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Earth (Replacement Dimension)"
+            }
+          },
+          {
+            "id": "65",
+            "name": "Chris",
+            "status": "Alive",
+            "species": "Humanoid",
+            "gender": "Male",
+            "origin": {
+              "name": "Rick's Battery Microverse"
+            },
+            "location": {
+              "name": "Rick's Battery Microverse"
+            }
+          },
+          {
+            "id": "66",
+            "name": "Coach Feratu (Balik Alistane)",
+            "status": "Dead",
+            "species": "Mythological Creature",
+            "gender": "Male",
+            "origin": {
+              "name": "Earth (Replacement Dimension)"
+            },
+            "location": {
+              "name": "Earth (Replacement Dimension)"
+            }
+          },
+          {
+            "id": "67",
+            "name": "Collector",
+            "status": "Alive",
+            "species": "Alien",
+            "gender": "Male",
+            "origin": {
+              "name": "The Menagerie"
+            },
+            "location": {
+              "name": "The Menagerie"
+            }
+          },
+          {
+            "id": "68",
+            "name": "Colossus",
+            "status": "Dead",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "Post-Apocalyptic Earth"
+            },
+            "location": {
+              "name": "Post-Apocalyptic Earth"
+            }
+          },
+          {
+            "id": "69",
+            "name": "Commander Rick",
+            "status": "Dead",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "70",
+            "name": "Concerto",
+            "status": "Dead",
+            "species": "Humanoid",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "unknown"
+            }
+          },
+          {
+            "id": "71",
+            "name": "Conroy",
+            "status": "Dead",
+            "species": "Robot",
+            "gender": "unknown",
+            "origin": {
+              "name": "Earth (Replacement Dimension)"
+            },
+            "location": {
+              "name": "Earth (C-137)"
+            }
+          },
+          {
+            "id": "72",
+            "name": "Cool Rick",
+            "status": "Alive",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "Earth (K-83)"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "73",
+            "name": "Cop Morty",
+            "status": "Dead",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "74",
+            "name": "Cop Rick",
+            "status": "Alive",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "75",
+            "name": "Courier Flap",
+            "status": "Alive",
+            "species": "Alien",
+            "gender": "unknown",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Planet Squanch"
+            }
+          },
+          {
+            "id": "76",
+            "name": "Cousin Nicky",
+            "status": "Dead",
+            "species": "Alien",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Earth (Replacement Dimension)"
+            }
+          },
+          {
+            "id": "77",
+            "name": "Cowboy Morty",
+            "status": "Alive",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "78",
+            "name": "Cowboy Rick",
+            "status": "Alive",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "79",
+            "name": "Crab Spider",
+            "status": "Alive",
+            "species": "Alien",
+            "gender": "unknown",
+            "origin": {
+              "name": "Hideout Planet"
+            },
+            "location": {
+              "name": "Hideout Planet"
+            }
+          },
+          {
+            "id": "80",
+            "name": "Creepy Little Girl",
+            "status": "Alive",
+            "species": "Human",
+            "gender": "Female",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Mr. Goldenfold's dream"
+            }
+          }
+        ],
+        "episode": {
+          "id": "4",
+          "name": "M. Night Shaym-Aliens!",
+          "air_date": "January 13, 2014",
+          "episode": "S01E04"
+        }
+      }
+    }
+  }

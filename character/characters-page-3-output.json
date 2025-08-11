@@ -1,0 +1,280 @@
+{
+    "data": {
+      "characters": {
+        "info": {
+          "count": 826,
+          "pages": 42,
+          "next": 4,
+          "prev": 2
+        },
+        "results": [
+          {
+            "id": "41",
+            "name": "Big Boobed Waitress",
+            "status": "Alive",
+            "species": "Mythological Creature",
+            "gender": "Female",
+            "origin": {
+              "name": "Fantasy World"
+            },
+            "location": {
+              "name": "Fantasy World"
+            }
+          },
+          {
+            "id": "42",
+            "name": "Big Head Morty",
+            "status": "unknown",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "43",
+            "name": "Big Morty",
+            "status": "Dead",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "44",
+            "name": "Body Guard Morty",
+            "status": "Dead",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "45",
+            "name": "Bill",
+            "status": "Alive",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "Earth (C-137)"
+            },
+            "location": {
+              "name": "Earth (C-137)"
+            }
+          },
+          {
+            "id": "46",
+            "name": "Bill",
+            "status": "unknown",
+            "species": "Animal",
+            "gender": "Male",
+            "origin": {
+              "name": "Earth (Replacement Dimension)"
+            },
+            "location": {
+              "name": "unknown"
+            }
+          },
+          {
+            "id": "47",
+            "name": "Birdperson",
+            "status": "Alive",
+            "species": "Alien",
+            "gender": "Male",
+            "origin": {
+              "name": "Bird World"
+            },
+            "location": {
+              "name": "Planet Squanch"
+            }
+          },
+          {
+            "id": "48",
+            "name": "Black Rick",
+            "status": "Alive",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "49",
+            "name": "Blamph",
+            "status": "Alive",
+            "species": "Alien",
+            "gender": "unknown",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Interdimensional Cable"
+            }
+          },
+          {
+            "id": "50",
+            "name": "Blim Blam",
+            "status": "Alive",
+            "species": "Alien",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Earth (Replacement Dimension)"
+            }
+          },
+          {
+            "id": "51",
+            "name": "Blue Diplomat",
+            "status": "Alive",
+            "species": "Alien",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Interdimensional Cable"
+            }
+          },
+          {
+            "id": "52",
+            "name": "Blue Footprint Guy",
+            "status": "Dead",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "Post-Apocalyptic Earth"
+            },
+            "location": {
+              "name": "Post-Apocalyptic Earth"
+            }
+          },
+          {
+            "id": "53",
+            "name": "Blue Shirt Morty",
+            "status": "unknown",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "54",
+            "name": "Bobby Moynihan",
+            "status": "Alive",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Interdimensional Cable"
+            }
+          },
+          {
+            "id": "55",
+            "name": "Boobloosian",
+            "status": "Dead",
+            "species": "Alien",
+            "gender": "unknown",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Nuptia 4"
+            }
+          },
+          {
+            "id": "56",
+            "name": "Bootleg Portal Chemist Rick",
+            "status": "Dead",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "Citadel of Ricks"
+            }
+          },
+          {
+            "id": "57",
+            "name": "Borpocian",
+            "status": "Alive",
+            "species": "Alien",
+            "gender": "Male",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "unknown"
+            }
+          },
+          {
+            "id": "58",
+            "name": "Brad",
+            "status": "Alive",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "Earth (Replacement Dimension)"
+            },
+            "location": {
+              "name": "Earth (Replacement Dimension)"
+            }
+          },
+          {
+            "id": "59",
+            "name": "Brad Anderson",
+            "status": "Dead",
+            "species": "Human",
+            "gender": "Male",
+            "origin": {
+              "name": "Earth (Replacement Dimension)"
+            },
+            "location": {
+              "name": "Earth (Replacement Dimension)"
+            }
+          },
+          {
+            "id": "60",
+            "name": "Calypso",
+            "status": "Dead",
+            "species": "Human",
+            "gender": "Female",
+            "origin": {
+              "name": "unknown"
+            },
+            "location": {
+              "name": "unknown"
+            }
+          }
+        ],
+        "episode": {
+          "id": "3",
+          "name": "Anatomy Park",
+          "air_date": "December 16, 2013",
+          "episode": "S01E03"
+        }
+      }
+    }
+  }
